@@ -15,8 +15,6 @@ Com uma base de dados fictícia de uma instituição financeira, o projeto roda 
 https://github.com/user-attachments/assets/82a5de09-267b-44a9-aa65-bff6579fd068
 
 
-[![Assistir no YouTube](https://img.youtube.com/vi/SEU_ID_DO_VIDEO/0.jpg)]([(https://youtu.be/NaLzNwESF0I)])
-
 
 
 
