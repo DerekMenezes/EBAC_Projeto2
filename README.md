@@ -12,8 +12,10 @@ Com uma base de dados fictícia de uma instituição financeira, o projeto roda 
 
 ## Vídeo demostrativo do Streamlit
 
+https://github.com/user-attachments/assets/82a5de09-267b-44a9-aa65-bff6579fd068
 
-[![Assistir no YouTube](https://img.youtube.com/vi/SEU_ID_DO_VIDEO/0.jpg)]([https://www.youtube.com/watch?v=SEU_ID_DO_VIDEO](https://youtu.be/NaLzNwESF0I))
+
+[![Assistir no YouTube](https://img.youtube.com/vi/SEU_ID_DO_VIDEO/0.jpg)]([(https://youtu.be/NaLzNwESF0I)])
 
 
 
